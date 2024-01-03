@@ -6,7 +6,7 @@ Jr Web Developer.
 
 I Love Code ! .
 
-* 🌍  I'm based in Khartoum, Sudan.
+* 🌍  I'm based in Riyadh, Saudi Arabia.
 * ✉️  You can contact me at [fageern@gmail.com.](mailto:fageern@gmail.com.)
 * 🧠  I'm learning JavaScript, React JS, Python, Flask, SQL ...
 * 🤝  I'm open to collaborating on Other Web Applications Projects.
