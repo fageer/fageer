@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Fager Mohsen.
 =====================================================================================================================================
 
-Web Developer.
+Odoo Developer.
 -----------------
 
 I Love Code ! .
@@ -9,7 +9,7 @@ I Love Code ! .
 * 🌍  I'm based in Riyadh, Saudi Arabia.
 * ✉️  You can contact me at [fageern@gmail.com.](mailto:fageern@gmail.com.)
 * 🧠  I'm learning JavaScript, React JS ...
-* 🤝  I'm open to collaborating on Other Web Applications Projects.
+* 🤝  I'm open to collaborating on Other Projects.
 
 ### Skills
 
